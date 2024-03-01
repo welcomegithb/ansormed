@@ -32,12 +32,11 @@ html {
   }
   
   .btn {
-    border: none;
+    border: 2px solid transparent;
     padding: 12px 24px;
     background-color: #de2e54;
     color: #fff;
     border-radius: 8px;
-    border: 2px solid transparent;
     cursor: pointer;
     font-weight: 700;
     font-size: 15px;
